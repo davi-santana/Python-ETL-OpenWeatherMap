@@ -74,3 +74,4 @@ Rode o script de orquestração principal na raiz do projeto:
 
 ```bash
 python run_pipeline.py
+
