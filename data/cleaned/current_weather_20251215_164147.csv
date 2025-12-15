@@ -1,0 +1,4 @@
+city_name,name,main_temp,main_feels_like,main_temp_min,main_temp_max,main_pressure,main_humidity,visibility,wind_speed,wind_deg,clouds_all,coord_lat,coord_lon,timezone,dt_iso,extraction_dt_iso,sys_sunrise_iso,sys_sunset_iso,weather_main,weather_description
+Sao_Paulo,Liberdade,29.53,30.52,28.69,30.15,1009,51,10000,5.14,290,40,-23.5505,-46.6333,-10800,2025-12-15 19:27:27+00:00,2025-12-15 16:36:37,2025-12-15 08:14:34+00:00,2025-12-15 21:49:06+00:00,Clouds,scattered clouds
+New_York,New York,-1.54,-7.98,-2.69,-0.58,1023,53,10000,7.2,310,20,40.7127,-74.006,-18000,2025-12-15 19:36:10+00:00,2025-12-15 16:36:37,2025-12-15 12:13:12+00:00,2025-12-15 21:29:31+00:00,Clouds,few clouds
+London,Abbey Wood,11.05,10.48,10.19,11.87,1006,87,10000,4.63,180,100,51.5074,0.1278,0,2025-12-15 19:36:10+00:00,2025-12-15 16:36:37,2025-12-15 07:58:52+00:00,2025-12-15 15:50:35+00:00,Clouds,overcast clouds
